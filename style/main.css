@@ -1,0 +1,27 @@
+/************************************
+*main css file for Portfolio website*
+*Created by Drew                    *                    
+*On march 2021                      * 
+************************************/ 
+p {
+    color:red;
+    background-color:yellow;
+}
+
+nav{
+   background-color:#424242 ;
+}
+
+main{
+    background:#fafafa;
+}
+footer{
+    background:#629749;
+}
+
+body{
+    font-family:"open sans",sans-serif;
+    font-size :0.75rem;
+    font-weight: bold;
+    font-style:italic;
+}
